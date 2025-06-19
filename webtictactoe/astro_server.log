@@ -1,0 +1,43 @@
+
+> astro@0.0.1 dev
+> astro dev --host 0.0.0.0 --port 3000
+
+▶ Astro collects anonymous usage data.
+  This information helps us improve Astro.
+  Run "astro telemetry disable" to opt-out.
+  https://astro.build/telemetry
+
+14:47:37 [types] Generated 0ms
+14:47:37 [content] Syncing content
+14:47:37 [content] Synced content
+
+ astro  v5.4.2 ready in 348 ms
+
+┃ Local    http://localhost:3000/
+┃ Network  http://172.17.0.2:3000/
+
+14:47:37 watching for file changes...
+
+ update  ▶ New version of Astro available: 5.10.0
+  Run npx @astrojs/upgrade to update
+
+14:47:39 Configuration file updated. Restarting...
+14:47:39 [vite] Re-optimizing dependencies because vite config has changed
+14:47:39 [content] Syncing content
+14:47:39 [content] Synced content
+14:47:39 [types] Generated 81ms
+14:47:39 [vite] Re-optimizing dependencies because vite config has changed
+14:47:45 Configuration file updated. Restarting...
+14:47:45 [vite] Re-optimizing dependencies because vite config has changed
+14:47:45 [content] Syncing content
+14:47:45 [content] Synced content
+14:47:45 [types] Generated 88ms
+14:47:45 [vite] Re-optimizing dependencies because vite config has changed
+14:47:47 [200] / 23ms
+14:47:47 [200] / 4ms
+14:48:26 Configuration file updated. Restarting...
+14:48:26 [vite] Re-optimizing dependencies because vite config has changed
+14:48:26 [content] Syncing content
+14:48:26 [content] Synced content
+14:48:26 [types] Generated 118ms
+14:48:26 [vite] Re-optimizing dependencies because vite config has changed
